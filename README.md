@@ -1,2 +1,0 @@
-# learnGit
-A local repository
